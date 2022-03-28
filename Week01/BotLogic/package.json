@@ -1,0 +1,15 @@
+{
+    "name": "BotLogic",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT",
+    "scripts": {
+        "build": "tsc",
+        "start": "node dist/BMI.js",
+        "test": "node dost/BMI.js",
+        "dev": ""
+    },
+    "dependencies": {
+        "nodemon": "^2.0.15"
+    }
+}
